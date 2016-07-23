@@ -10,3 +10,6 @@
 [submodule "python/DubinsAirplane"]
 	path = python/DubinsAirplane
 	url = https://github.com/unr-arl/DubinsAirplane
+[submodule "matlab/vehicle-dynamics/quadrotor_simulator"]
+	path = matlab/vehicle-dynamics/quadrotor_simulator
+	url = https://github.com/ke-sun/quadrotor_simulator
