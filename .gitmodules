@@ -7,3 +7,6 @@
 [submodule "ROS/path-planning/structural-inspection/StructuralInspectionPlanner"]
 	path = ROS/path-planning/structural-inspection/StructuralInspectionPlanner
 	url = https://github.com/ethz-asl/StructuralInspectionPlanner
+[submodule "python/DubinsAirplane"]
+	path = python/DubinsAirplane
+	url = https://github.com/unr-arl/DubinsAirplane
